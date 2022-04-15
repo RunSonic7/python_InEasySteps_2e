@@ -11,13 +11,13 @@
 #                 i.e. PEMDAS not applied properly
 
 # Syntax Error
-print('Python in easy steps)
+# print('Python in easy steps)
 
 # Runtime Error
-title = 'Python in easy steps'
-print(titel)
+# title = 'Python in easy steps'
+# print(titel)
 
 # Semantic Error
 # Expected value is 36, parenthesis missing
-num = 3
-print(num * 8 + 4)
+# num = 3
+# print(num * 8 + 4)
